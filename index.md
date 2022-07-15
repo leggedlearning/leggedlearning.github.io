@@ -44,7 +44,7 @@ TODO -->
 
 ## Overview <a href="#toc" class="top-link">[Top]</a>
 
-Legged robots (bipeds, robot dogs, hexapods) are incredibly versatile but also significantly harder to control than their wheeled counterparts. The goal of the workshop is to give a platform to researchers using machine learning techniques on legged robots to share their problems and ideas. We’ll look at the problem from the angles of learned controllers, learned perception, developing simulators, and designing physical systems.
+Legged robots (bipeds, robot dogs, hexapods) are incredibly versatile but this versatility comes with more complex control problems than their wheeled counterparts. The goal of the workshop is to give a platform to researchers who are using machine learning techniques on legged robots to share their problems and ideas. We’ll look at the problem from the angles of learned controllers, learned perception, developing simulators, and designing physical systems.
 
 <a name="speakers"/>
 
