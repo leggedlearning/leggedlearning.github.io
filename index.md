@@ -53,26 +53,25 @@ Legged robots (bipeds, robot dogs, hexapods) are incredibly versatile but also s
 
 <div class="speakers"></div>
 
-| <img src="assets/images/speakers/lin.jpg" alt="Hsiu-Chin Lin" width="300" /> | [Hsiu-Chin Lin](https://sites.google.com/site/hsiuchinlin/) (McGill University)
+| <img src="assets/images/speakers/levine.jpg" alt="Sergey Levine" width="300" /> | [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkley)
+
+| <img src="assets/images/speakers/koltun.jpg" alt="Vladlen Koltun" width="300" /> | [Vladlen Koltun](http://vladlen.info/) (Apple)
+
+| <img src="assets/images/speakers/batra.jpg" alt="Dhruv Batra" width="300" /> | [Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/) (Georgia Tech)
+
+| <img src="assets/images/speakers/vijayakumar.jpg" alt="Sethu Vijayakumar" width="300" /> | [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/) (University of Edinburgh)
 
 | <img src="assets/images/speakers/garg.jpg" alt="Animesh Garg" width="300" /> | [Animesh Garg](https://animesh.garg.tech/) (University of Toronto)
+
+| <img src="assets/images/speakers/chung.jpg" alt="Timothy H. Chung" width="300" /> | [Timothy H. Chung ](https://scholar.google.ca/citations?user=iI4rhYAAAAAJ&hl=en) (DARPA)
+
+| <img src="assets/images/speakers/hafner.jpg" alt="Danijar Hafner" width="300" /> | [Danijar Hafner](https://danijar.com/) (University of Toronto)
+
+| <img src="assets/images/speakers/lin.jpg" alt="Hsiu-Chin Lin" width="300" /> | [Hsiu-Chin Lin](https://sites.google.com/site/hsiuchinlin/) (McGill University)
 
 | <img src="assets/images/speakers/lee.jpg" alt="Joonho Lee" width="300" /> | [Joonho Lee](https://rsl.ethz.ch/the-lab/people/person-detail.MjEzNzM5.TGlzdC8yNDQyLC0xNDI1MTk1NzM1.html) (ETH Zurich)
 
 | <img src="assets/images/speakers/lickindorf.jpg" alt="Damian Lickindorf" width="300" /> | [Damian Lickindorf](https://www.linkedin.com/in/damian-lickindorf-4aa91b160/) (Ahead.io)
-
-| <img src="assets/images/speakers/batra.jpg" alt="Dhruv Batra" width="300" /> | [Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/) (Georgia Tech)
-
-| <img src="assets/images/speakers/hafner.jpg" alt="Danijar Hafner" width="300" /> | [Danijar Hafner](https://danijar.com/) (University of Toronto)
-
-| <img src="assets/images/speakers/chung.jpg" alt="Timothy H Chung" width="300" /> | [Timothy H Chung ](https://scholar.google.ca/citations?user=iI4rhYAAAAAJ&hl=en) (DARPA)
-
-| <img src="assets/images/speakers/levine.jpg" alt="Sergey Levine" width="300" /> | [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkley)
-
-| <img src="assets/images/speakers/vijayakumar.jpg" alt="Sethu Vijayakumar" width="300" /> | [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/) (University of Edinburgh)
-
-| <img src="assets/images/speakers/koltun.jpg" alt="Vladlen Koltun" width="300" /> | [Vladlen Koltun](http://vladlen.info/) (Apple)
-
 
 <!-- <a name="call"/>
 
