@@ -229,3 +229,5 @@ Submission website: [TODO](TODO)
 
 | <img src="assets/images/glen.jpg" alt="Glen Berseth" width="300" />  | [Glen Berseth](https://www.fracturedplane.com/) is an assistant professor at the Université de Montréal, a core academic member of the Mila - Quebec AI Institute, CIFAR AI chair, and co-director of the Robotics and Embodied AI Lab (REAL). The specific of his research has covered the areas of reinforcement-, continual-, meta-, hierarchical learning, and human-robot collaboration.  |
 
+| <img src="assets/images/liam.jpg" alt="Liam Paull" width="300" />  | [Liam Paull](https://liampaull.ca/) is an assistant professor at the Université de Montréal. He co-leads the Robotics and Embodied AI Lab (REAL). He is also affiliated with Mila and holds a CIFAR AI Chair. In general, his research is focussed on building representations of the world, modelling of uncertainty, and building better workflows to teach robotic agents new tasks.  |
+
