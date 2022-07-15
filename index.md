@@ -26,12 +26,12 @@ layout: default
 <a name="toc"/>
 
 
-## Updates
+<!-- ## Updates -->
 
 
 <!-- <img src="assets/images/image.jpeg" alt="caption" style="width:100%; max-width: 100% !important; max-height: none !important;" /> -->
 
-**2022 July:** Workshop was submitted to CoRL.
+<!-- **2022 July:** Workshop was submitted to CoRL. -->
 
 
 <!-- <a name="videos"/>
@@ -44,7 +44,7 @@ TODO -->
 
 ## Overview <a href="#toc" class="top-link">[Top]</a>
 
-TODO
+Legged robots (bipeds, robot dogs, hexapods) are incredibly versatile but also significantly harder to control than their wheeled counterparts. The goal of the workshop is to give a platform to researchers using machine learning techniques on legged robots to share their problems and ideas. We’ll look at the problem from the angles of learned controllers, learned perception, developing simulators, and designing physical systems.
 
 <a name="speakers"/>
 
@@ -224,9 +224,9 @@ Submission website: [TODO](TODO)
 
 | <img src="assets/images/simon.jpg" alt="Simon Chamorro" width="300" />  | [Simon Chamorro](https://simonchamorro.github.io/) is a Msc. Student at Mila and Polytechnique Montreal advised by professor Chris Pal. He received his B. Eng in Robotics from the Université de Sherbrooke and works on planning, control and RL.  |
 
-| <img src="assets/images/charlie.jpg" alt="Charlie Gauthier" width="300" />  | [Charlie Gauthier](https://mila.quebec/en/person/charlie-gauthier/) is a ...  |
+| <img src="assets/images/charlie.jpg" alt="Charlie Gauthier" width="300" />  | [Charlie Gauthier](https://mila.quebec/en/person/charlie-gauthier/) is a Msc. Student at Mila and Université de Montreal advised by professor Liam Paull. She is interested in robotics, automation, and related learning algorithms (RL, IL, etc.).  |
 
-| <img src="assets/images/martin.jpg" alt="Martin Weiss" width="300" />  | [Martin Weiss](http://martincsweiss.com/) is a ...  |
+| <img src="assets/images/martin.jpg" alt="Martin Weiss" width="300" />  | [Martin Weiss](http://martincsweiss.com/) is a PhD Student at Mila and Polytechnique Montreal advised by professor Chris Pal. He is interested in understanding the nature of intelligence, and developing intelligent systems for the benefit of humanity.  |
 
-| <img src="assets/images/glen.jpg" alt="Glen Berseth" width="300" />  | [Glen Berseth](https://www.fracturedplane.com/) is a ...  |
+| <img src="assets/images/glen.jpg" alt="Glen Berseth" width="300" />  | [Glen Berseth](https://www.fracturedplane.com/) is an assistant professor at the Université de Montréal, a core academic member of the Mila - Quebec AI Institute, CIFAR AI chair, and co-director of the Robotics and Embodied AI Lab (REAL). The specific of his research has covered the areas of reinforcement-, continual-, meta-, hierarchical learning, and human-robot collaboration.  |
 
